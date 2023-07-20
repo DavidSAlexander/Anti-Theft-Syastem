@@ -1,4 +1,4 @@
-# Anti-Theft-Syastem
+# Anti-Theft-System
 An ESP8266 and GSM Module based smart anti theft system.  <br />
 Purpose : <br />
 Prevent any theft attempt using doors, windows and motion sensors by making a GSM calls to warn the owner. <br />
